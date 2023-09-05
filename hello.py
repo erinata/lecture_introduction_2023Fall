@@ -56,6 +56,8 @@ print(augmented_numbers(
   )
 )
 
+for i in range(2000):   
+  print(i+1)
 
 
 
